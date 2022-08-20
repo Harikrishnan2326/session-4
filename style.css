@@ -1,0 +1,190 @@
+body{font-family: 'Lato', sans-serif;
+background-color: white;
+}
+header{
+  background-color: rgb(30, 134, 94);
+  color: white;
+}
+.container{
+    width: 1200px;
+    display: flex;
+    margin: auto;
+    
+
+}
+.lg img{
+  width: 80%;
+  height: auto;
+  margin: 20px; 
+  margin-left: 110px;
+margin-right: 50px;
+}
+.row{
+display: flex;
+
+}
+.head_nav{
+width: 900px;
+margin: auto;
+
+}
+.taxta p{font-size: 8px;}
+.fnt{color: rgb(49, 44, 44); font-weight: 200;}
+.head_nav a{
+text-decoration: none;
+color: white;
+font-weight: 500;
+margin: 0px 30px;
+width: auto;
+}
+.logo {
+width: 450Px;
+height: auto;
+}
+.text{
+    width: 900px;
+    margin: auto;
+    margin-top: 35px;
+    font-size: 20px;
+    color: black;
+}
+.texta{
+  width: 40%;
+  margin: auto;
+}
+.imge{
+    width: 50%;
+    height: 75%;
+    margin:auto;
+}
+.link{display: block;}
+
+.hr i{color: rgb(77, 127, 201);
+padding:18px;}
+.hr a{text-decoration: none;
+  color: rgb(77, 127, 201);
+  font-weight: 500;}
+.hr a:hover{
+  text-decoration: underline;
+}
+.xy{
+  text-decoration: none;
+  color: rgb(77, 127, 201);
+  font-weight: 500;
+margin: auto;  
+}
+.imge img{
+  width: 80%;  
+height: auto    ;
+}
+.store_1 a{
+  text-decoration: none;
+color: rgb(105, 140, 238);
+}
+.store_1 a:hover{text-decoration: underline;}
+.store{
+  width: 100%;
+  padding-top: 60px;
+}
+.store_1 h2{font-weight: 700;}
+.store_1{
+  text-align: center;
+  width: 48%;
+  margin: auto;
+  margin-right: 25px;
+  padding-top: 75px;
+  padding-right: 75px;
+  padding-left: 75px;
+background-color: rgb(199, 206, 223);
+}
+.store_1 img{width: 70%;
+padding-top: 30px;}
+.store_2{text-align: center;
+  width: 48%;
+  margin: auto;
+  margin-left: 25px;
+  padding-top: 100px;
+  padding-right: 75px;
+  padding-left: 75px;
+  padding-bottom: 85px;
+background-color: rgb(219, 219, 219);}
+.store_2 small{font-weight: 700;
+  padding-top: 50px;
+color: rgb(100, 100, 100);}
+.store_2 video{width: 100%;
+padding-bottom: 100px;}
+.button{width: 100%;
+margin: auto;
+margin-top: 50px;
+text-align: center;}
+.button a{
+  text-decoration: none;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  margin: 550px;
+  
+  padding: 20px;
+  border: 2px solid rgb(6, 190, 190); 
+  border-radius: 55px;
+  width: 100%;
+  text-align: center;
+}
+.fd{background-color: rgb(83, 83, 83);
+  margin: auto;
+margin-top: 3%;
+
+width: 100%;}
+.footer{background-color: rgb(83, 83, 83);
+width: 100% ;
+margin: auto;
+margin-left: 20%;
+padding-bottom: 20px;
+}
+.footer h3{font-size: 20px;}
+.one{text-align: left;
+width: 30%;
+
+font-size: 20px;
+color: white;}
+.one a{text-decoration: none;
+color: white;
+}
+.footer a:hover{text-decoration: underline;}
+
+.two{text-align: left;
+  width: 40%;
+  margin: auto;
+  margin-left: 35%;
+  font-size: 20px;
+  color: white;
+}
+  .two a{
+    width: 100%;
+    
+    text-decoration: none;
+  color: white;
+  }
+  
+  .three{text-align: left;
+    width: 30%;
+    margin-left: 35%;
+    font-size: 20px;
+    color: white;}
+    .three a{text-decoration: none;
+    color: white;
+    }
+    
+    .four{text-align: left;
+      width: 30%;
+      margin-left: 35%;
+      font-size: 20px;
+      color: white;}
+      .four a{text-decoration: none;
+      color: white;
+      }
+      
+
+
+
+
+
